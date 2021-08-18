@@ -8,11 +8,11 @@ The purpose of this project is the create a report for an investment bank intere
 
 I started by cleaning up the data to only have cryptocurrencies that are actively trading, have a defined algorithm, and have a complete set of data. This left me with 532 different cryptocurrrencies. From there I created a three dimisional graph to show how the different cryptocurrencies are grouped together. Each point includes its name as well as the algorithm used to create the currency.
 
-![clustered_3d](https://github.com/Wall-E28/cryptocurrencies/blob/main/visualizations/clustered_3d.png)
+![clustered_3d](/visualizations/clustered_3d.png)
 
 After that, I created a two dimisional graph to show the relationship between total coin supply and total coins mined to show how each currency compares to the rest. Each point includes its currency name.
 
-![coins_2d](https://github.com/Wall-E28/cryptocurrencies/blob/main/visualizations/coins_2d.png)
+![coins_2d](/visualizations/coins_2d.png)
 
 ## Summary
 
