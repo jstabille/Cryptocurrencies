@@ -12,7 +12,7 @@ I started by cleaning up the data to only have cryptocurrencies that are activel
 
 After that, I created a two dimisional graph to show the relationship between total coin supply and total coins mined to show how each currency compares to the rest. Each point includes its currency name.
 
-![coins_2d](/visualizations/coins_2d.png)
+![coins_2d](/visualizations/bokeh_plot_2d.png)
 
 ## Summary
 
